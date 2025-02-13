@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{35657c51-fd2a-4f1d-a7b3-04f4196ed8eb}</ProjectGuid>
-    <RootNamespace>sprenzyna</RootNamespace>
+    <RootNamespace>hodograf</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -79,7 +79,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\fast_acess\Studia\MINI CAD-CAM\Programowanie urządźeń sterowanych numerycznie\Projekty\hodograf\spring-main\spring-main\sprenzyna\imgui\misc\cpp;D:\fast_acess\Studia\MINI CAD-CAM\Programowanie urządźeń sterowanych numerycznie\Projekty\hodograf\spring-main\spring-main\sprenzyna\imgui;D:\fast_acess\Studia\MINI CAD-CAM\Programowanie urządźeń sterowanych numerycznie\Projekty\hodograf\spring-main\spring-main\sprenzyna\implot</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)\hodograf\imgui\misc\cpp;$(SolutionDir)\hodograf\imgui;$(SolutionDir)\hodograf\implot</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -94,7 +94,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\fast_acess\Studia\MINI CAD-CAM\Programowanie urządźeń sterowanych numerycznie\Projekty\hodograf\spring-main\spring-main\sprenzyna\imgui\misc\cpp;D:\fast_acess\Studia\MINI CAD-CAM\Programowanie urządźeń sterowanych numerycznie\Projekty\hodograf\spring-main\spring-main\sprenzyna\imgui;D:\fast_acess\Studia\MINI CAD-CAM\Programowanie urządźeń sterowanych numerycznie\Projekty\hodograf\spring-main\spring-main\sprenzyna\implot</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)\hodograf\imgui\misc\cpp;$(SolutionDir)\hodograf\imgui;$(SolutionDir)\hodograf\implot</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -109,7 +109,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\fast_acess\Studia\MINI CAD-CAM\Programowanie urządźeń sterowanych numerycznie\Projekty\hodograf\spring-main\spring-main\sprenzyna\imgui\misc\cpp;D:\fast_acess\Studia\MINI CAD-CAM\Programowanie urządźeń sterowanych numerycznie\Projekty\hodograf\spring-main\spring-main\sprenzyna\imgui;D:\fast_acess\Studia\MINI CAD-CAM\Programowanie urządźeń sterowanych numerycznie\Projekty\hodograf\spring-main\spring-main\sprenzyna\implot</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)\hodograf\imgui\misc\cpp;$(SolutionDir)\hodograf\imgui;$(SolutionDir)\hodograf\implot</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -125,7 +125,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\fast_acess\Studia\MINI CAD-CAM\Programowanie urządźeń sterowanych numerycznie\Projekty\hodograf\spring-main\spring-main\sprenzyna\imgui\misc\cpp;D:\fast_acess\Studia\MINI CAD-CAM\Programowanie urządźeń sterowanych numerycznie\Projekty\hodograf\spring-main\spring-main\sprenzyna\imgui;D:\fast_acess\Studia\MINI CAD-CAM\Programowanie urządźeń sterowanych numerycznie\Projekty\hodograf\spring-main\spring-main\sprenzyna\implot</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)\hodograf\imgui\misc\cpp;$(SolutionDir)\hodograf\imgui;$(SolutionDir)\hodograf\implot</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
