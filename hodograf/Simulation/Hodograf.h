@@ -30,7 +30,7 @@ namespace Simulation {
 
         float positionScalar = 10;
 
-        float standard_variation = 1;
+        float standard_variation = 0.0000001;
         std::normal_distribution<float> normalDistribution{ 0,0.0000001 };
     };
 
